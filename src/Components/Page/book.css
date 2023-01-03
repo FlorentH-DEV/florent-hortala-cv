@@ -1,0 +1,10 @@
+.paddingFiltre{
+    padding-top: 3%;
+}
+.borderFiltre{
+    border-bottom: solid;
+}
+.option-selected{
+    color: green;
+    font-weight: bold;
+}

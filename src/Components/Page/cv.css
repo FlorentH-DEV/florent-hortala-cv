@@ -1,0 +1,26 @@
+.paddingBotInformation {
+    padding-bottom: 3%;
+}
+.paddingBotTitreRecherche {
+    padding-bottom: 5%;
+}
+.tailleText {
+    text-decoration: underline;
+    font-size: 200%;
+}
+.colorTextSendMail {
+    color: black;
+    font-weight: bold;
+}
+.test{
+    background-color: white!important;
+    color: black!important;
+}
+.colorPosteRechercher{
+    color: #1F497D;
+    letter-spacing: 2.5px;
+}
+
+.cardHeader {
+    letter-spacing: 1.7px;
+}

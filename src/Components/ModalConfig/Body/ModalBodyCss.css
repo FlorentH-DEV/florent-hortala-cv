@@ -1,0 +1,11 @@
+.colorPicker{
+    width: 25px;
+    height: 25px;   
+}
+.text-data{
+    font-size: 120%;
+    text-decoration: underline;
+}
+.sizeImgModal{
+    width: 100%;
+}
