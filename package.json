@@ -6,7 +6,6 @@
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@types/react-redux": "^7.1.18",
     "bootstrap": "^5.1.3",
-    "node-sass": "^6.0.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.1.0",
     "react-collapsible": "^2.8.4",
